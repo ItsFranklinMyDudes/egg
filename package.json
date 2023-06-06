@@ -1,0 +1,16 @@
+{
+  "name": "egg-convertor",
+  "version": "1.0.3",
+  "description": "Replaces all text with egg or the emoji egg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsFranklinMyDudes/egg.git"
+  },
+  "keywords": ["egg", "fun", "word", "text"],
+  "author": "ItsFranklinMyDudes",
+  "license": "ISC"
+}
